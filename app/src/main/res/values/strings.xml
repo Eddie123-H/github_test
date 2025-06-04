@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Eats365 Test</string>
+    <string name="github_token">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</string>
+    <string name="site_admin">Admin :</string>
 </resources>
